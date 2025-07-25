@@ -1,0 +1,7 @@
+Format: http://anonscm.debian.org/viewvc/dep/web/deps/dep5.mdwn?revision=174
+Upstream-Name: program-jtag
+Source: http://github.com/ahp-electronics/program-jtag
+
+Files: *
+Copyright: 2025, Ilia Platone <info@iliaplatone.com>
+License: GPL-3+
